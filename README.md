@@ -59,14 +59,15 @@ chmod +x zenityEYS.sh
 ## Kullanım
 
 ### Giriş Yapma
-![Giriş Ekranı](screenshots/giris.png)
+![Giriş Ekranı](https://github.com/user-attachments/assets/d597fab6-3b7b-47d8-88d7-5186b4b01280)
 
 Varsayılan yönetici hesabı:
 - Kullanıcı adı: `admin`
 - Şifre: `admin123`
 
 ### Ana Menü
-![Ana Menü](https://github.com/user-attachments/assets/d597fab6-3b7b-47d8-88d7-5186b4b01280)
+![Ana Menü](https://github.com/user-attachments/assets/29c9d80c-7e61-4cdc-aa9b-f5f63175e4b8)
+
 
 Ana menüden tüm işlemlere erişebilirsiniz:
 1. Ürün Ekle
