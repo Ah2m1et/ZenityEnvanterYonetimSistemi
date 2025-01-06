@@ -79,7 +79,7 @@ Ana menüden tüm işlemlere erişebilirsiniz:
 7. Program Yönetimi
 
 ### Ürün Ekleme
-![Ürün Ekleme](screenshots/urun-ekle.png)
+![Ürün Ekleme](https://github.com/user-attachments/assets/24905189-1278-4a0e-b013-4ae786553c21)
 
 - Ürün adı (boşluk içermemeli)
 - Stok miktarı (sayısal değer)
@@ -87,7 +87,7 @@ Ana menüden tüm işlemlere erişebilirsiniz:
 - Kategori (boşluk içermemeli)
 
 ### Raporlama
-![Rapor Ekranı](screenshots/rapor.png)
+![Rapor Ekranı](https://github.com/user-attachments/assets/dd553245-581b-4f3a-833c-a86c14022a55)
 
 İki tür rapor alabilirsiniz:
 1. Stokta azalan ürünler
