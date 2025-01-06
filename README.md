@@ -149,8 +149,3 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 [Ahmet Korkmaz] - [@Ah2m1et](https://github.com/Ah2m1et) - ah2m1et@gmail.com
 
 Proje Linki: [https://github.com/Ah2m1et/ZenityEnvanterYonetimSistemi](https://github.com/Ah2m1et/ZenityEnvanterYonetimSistemi)
-
-## Teşekkür
-
-- [Zenity Dokümantasyonu](https://help.gnome.org/users/zenity/stable/)
-- [Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
