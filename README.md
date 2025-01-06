@@ -66,8 +66,7 @@ Varsayılan yönetici hesabı:
 - Şifre: `admin123`
 
 ### Ana Menü
-![Ana Menü](![resim](https://github.com/user-attachments/assets/d597fab6-3b7b-47d8-88d7-5186b4b01280)
-)
+![Ana Menü](https://github.com/user-attachments/assets/d597fab6-3b7b-47d8-88d7-5186b4b01280)
 
 Ana menüden tüm işlemlere erişebilirsiniz:
 1. Ürün Ekle
