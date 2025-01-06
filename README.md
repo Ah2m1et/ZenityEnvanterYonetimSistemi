@@ -3,7 +3,7 @@ Shell Script ile yazılmış Envanter Yönetim Sistemi Zenity uygulaması
 
 Bu proje, BLM0365 Linux Araçları ve Kabuk Programlama dersi için geliştirilmiş bir envanter yönetim sistemidir. Zenity araçları kullanılarak oluşturulan bu sistem, kullanıcı dostu bir grafiksel arayüz üzerinden ürün yönetimi, kullanıcı yönetimi ve raporlama işlemlerini gerçekleştirmeyi sağlar.
 
-[![Kullanım Videosu](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Kullanım Videosu](https://youtu.be/QhJdXJRRKgo)](https://youtu.be/QhJdXJRRKgo)
 
 ## Özellikler
 
